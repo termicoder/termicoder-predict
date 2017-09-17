@@ -1,2 +1,2 @@
 # termicoder-predict
-problem category prediction part in termicoder
+Problem category prediction part in termicoder
